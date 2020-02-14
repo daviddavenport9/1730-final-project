@@ -1,0 +1,10 @@
+total 52
+drwxr-xr-x.  2 dbd nobody  4096 May  6 16:03 .
+drwxr-x---. 37 dbd apache  4096 May  6 14:19 ..
+-rwxr-xr-x.  1 dbd nobody   494 May  2 01:48 help2.txt
+-rwxr-xr-x.  1 dbd nobody    31 May  2 14:43 help.txt
+-rw-r--r--.  1 dbd nobody   377 May  1 15:30 myfile.txt
+-rw-r--r--.  1 dbd nobody    27 Apr 30 21:52 myfile.txt~
+-rwxr-xr-x.  1 dbd nobody 13282 May  6 16:03 shell
+-rw-r--r--.  1 dbd nobody  5864 May  6 15:59 shell.cpp
+-rw-r--r--.  1 dbd nobody    13 May  6 15:26 test.txt
